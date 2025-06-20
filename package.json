@@ -9,7 +9,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/node": "^9.2.2",
     "@astrojs/react": "^4.3.0",
     "@emotion/css": "^11.13.5",
     "@emotion/react": "^11.14.0",
