@@ -1,0 +1,9 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import SSRTest from '../../components/SSR-Test.tsx';
+---
+<Layout>
+  <SSRTest server:defer />
+</Layout>
+
+<a href='./island-demo'>server island...</a>
